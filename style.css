@@ -1,0 +1,197 @@
+.form-table th {
+    vertical-align: middle;
+}
+
+
+#post_text_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#post_text_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+#post_text_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+
+
+
+
+
+#title_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#title_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+
+#title_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+
+#post_bg_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#post_bg_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+
+#post_bg_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+
+
+
+
+
+
+#header_bg_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#header_bg_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+
+#header_bg_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+
+
+
+
+
+#header_text_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#header_text_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+
+#header_text_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+
+
+#header_search_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#header_search_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+
+#header_search_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+#header_search_text_colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(colorpicker/images/select2.png);
+}
+#header_search_text_colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(colorpicker/images/select2.png) center;
+}
+
+#header_search_text_customWidget {
+	position: relative;
+	height: 36px;
+}
+
+#downloadbutton{
+display: block;
+width: 48px;
+height: 48px;
+background-image:url('images/download.png');
+background-position:left top;
+background-repeat:no-repeat;
+}
+#downloadbutton:hover{
+display: block;
+width: 48px;
+height: 48px;
+background-image:url('images/download_hover.png');
+background-position:left top;
+background-repeat:no-repeat;
+}
+
+.form-table td{
+padding:1px 10px;
+}
